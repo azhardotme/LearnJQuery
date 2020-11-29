@@ -6,3 +6,11 @@
 .style2 {
   font: italic;
 }
+
+.div-style {
+  
+  height: 150px;
+  width: 500px;
+  padding: 10px;
+  background-color: gray;
+}
